@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740106436814",
+    "project_id": "chat-room-c7950",
+    "storage_bucket": "chat-room-c7950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740106436814:android:9306a3e94d7aab6dc9d09f",
+        "android_client_info": {
+          "package_name": "com.example.chat_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740106436814-1g8dauf2ej0114sqs380m1t54hqv8ebg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuUC7W1XTjITGADrFam6XIN5NPv8KYh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740106436814-1g8dauf2ej0114sqs380m1t54hqv8ebg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
